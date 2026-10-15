@@ -1,0 +1,13 @@
+===== FILE INTEGRITY REPORT =====
+Checked at: 2026-10-14T21:59:38
+Baseline files: 1
+Current files: 1
+
+RESULT: File differences detected.
+MODIFIED: notes.txt
+
+Modified files: 1
+New files: 0
+Missing files: 0
+
+Note: A difference indicates a file change, not necessarily malicious activity.
